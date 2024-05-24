@@ -6,4 +6,4 @@ The purpose of this study was to compare the performance of Pymaceuticals’ dru
 4. Calculate quartiles, find outliers, and create a box plot.
 5. Create a line plot and a scatter plot.
 6. Calculate correlation and regression.
-7.Submit your final analysis.
+7. Submit your final analysis.
